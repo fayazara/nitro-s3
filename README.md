@@ -9,7 +9,7 @@ pnpx wrangler pages dev dist/
 ```
 
 Error
-```
+```bash
 Error uploading file: TypeError: t2 is not a function
 
       at Wd.slurpFile
